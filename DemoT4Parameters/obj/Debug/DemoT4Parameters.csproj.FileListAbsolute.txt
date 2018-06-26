@@ -1,0 +1,6 @@
+c:\test\DemoT4Parameters\DemoT4Parameters\bin\Debug\DemoT4Parameters.exe.config
+c:\test\DemoT4Parameters\DemoT4Parameters\obj\Debug\DemoT4Parameters.csprojResolveAssemblyReference.cache
+c:\test\DemoT4Parameters\DemoT4Parameters\bin\Debug\DemoT4Parameters.exe
+c:\test\DemoT4Parameters\DemoT4Parameters\bin\Debug\DemoT4Parameters.pdb
+c:\test\DemoT4Parameters\DemoT4Parameters\obj\Debug\DemoT4Parameters.exe
+c:\test\DemoT4Parameters\DemoT4Parameters\obj\Debug\DemoT4Parameters.pdb
